@@ -21,12 +21,11 @@
 title: Salim's Showcase
 email: salimsaidhemed1989@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A portfolio showcasing my personal Projects done in my day to day operations as a sysadmin/devops engineer. The Portfolio encompasses a number of my interests including but is 
+  not limited to Automation (Ansible), Scripting (Bash,Python), Operating Systems (Linux Mainly and Windows Server),Cloud Computing (Azure) and Databases (PostgreSQL,MySQL)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://salimsaidhemed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: salimsaidhemed1
 github_username:  salimsaidhemed
 
 # Build settings
